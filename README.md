@@ -11,5 +11,5 @@ I am an undergraduate Computer Science and Engineering student at UNET. C, C++, 
 - 🌱 I’m currently learning ...
   - React js
   - SQL
-- Outside tech, 📖 I love to read novels, 🎵 listen to music, and 🌴 explore nature outdoors.
+- Outside tech, 📖 I like to read novels, 🎵 listen to music, play games and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="josephedbaptistaca@gmail.com">josephedbaptistaca@gmail.com</a>
