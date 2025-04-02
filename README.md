@@ -31,7 +31,7 @@ I am an undergraduate Computer Engineering student at UNET. I enjoy learning and
 ## GitHub stats
 
 <p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=JosephBapt&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "200" src="https://github-readme-stats.vercel.app/api?username=JosephBapt&theme=react&show_icons=true&include_all_commits=true" />
   <!-- <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephBapt&theme=react&layout=compact" /> -->
 </p>
 
