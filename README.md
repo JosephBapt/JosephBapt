@@ -28,3 +28,10 @@ I am an undergraduate Computer Engineering student at UNET. I enjoy learning and
   ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
+## GitHub stats
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=JosephBapt&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosephBapt&theme=react&layout=compact" />
+</p>
+
