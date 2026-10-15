@@ -27,6 +27,8 @@ I am an undergraduate Computer Engineering student at UNET. I enjoy learning and
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
   ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+  ![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)
+  ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)
 
 <!--
 ## GitHub stats
