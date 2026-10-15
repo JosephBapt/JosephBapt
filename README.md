@@ -8,9 +8,7 @@
 
 I am an undergraduate Computer Engineering student at UNET. I enjoy learning and improving my skills, with a preference for back-end development, though I can also work on front-end.
 * **I am interested in Web designing, desktop aplications, and games**
-- 🌱 I’m currently learning ...
-  - React js
-  - SQL
+
 - Outside tech, 📖 I like to read novels, 🎵 listen to music, :space_invader: play games and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="josephedbaptistaca@gmail.com">josephedbaptistaca@gmail.com</a>
 
@@ -22,6 +20,8 @@ I am an undergraduate Computer Engineering student at UNET. I enjoy learning and
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)
+  ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
   
 - Other Tools and Technologies : <br/>
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
